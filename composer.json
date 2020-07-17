@@ -9,9 +9,9 @@
     "require": {
         "php": ">=5.4.0"
     },
-    "autoload":{
+   "autoload": {
         "psr-4": {
-            "Wz\\": "src/",
+            "Illuminate\\": "src/Illuminate/"
         }
     },
     "license":"MIT",
